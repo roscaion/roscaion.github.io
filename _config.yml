@@ -1,2 +1,3 @@
-name: Ion Rosca, Photographer base din Moldova
+name: Ion Rosca, Photographer based din Moldova
 	markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
